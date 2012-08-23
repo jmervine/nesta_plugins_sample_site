@@ -23,6 +23,6 @@ I use this for plugin development.
 
 1. Checkout or Fork
 2. bundle install --path vendor/bundle
-3. bundle exec nesta content:demo 
+3. bundle exec nesta demo:content
 4. bundle exec shotgun # (or unicorn if you prefer, as I do)
 
