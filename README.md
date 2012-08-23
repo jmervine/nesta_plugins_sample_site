@@ -4,7 +4,7 @@ I use this for plugin development.
 
 ## Plugins:
 
-> These may not abe all that's are being installed, but they are all the have been confirmed as working.
+> This is a list of plugins that have been confirmed as working. There may be others being installed via the Gemfile.
 
 - nesta-plugin-admin
 - nesta-plugin-sharethis
