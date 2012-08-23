@@ -18,3 +18,11 @@ I use this for plugin development.
 
 > I have modified postal3 views to support the plugins listed above.
 
+
+## Usage
+
+1. Checkout or Fork
+2. bundle install --path vendor/bundle
+3. bundle exec nesta content:demo 
+4. bundle exec shotgun # (or unicorn if you prefer, as I do)
+
