@@ -1,0 +1,6 @@
+.*sw*
+vendor/bundle
+.bundle
+Gemfile.lock
+.sass-cache/
+diskcached/
