@@ -14,9 +14,13 @@ I use this for plugin development.
 
 ## Theme:
 
-- postal3
 
-> I have modified postal3 views to support the plugins listed above.
+- postal3
+  - I have modified postal3 views to support the plugins listed above.
+- rubyops
+  - See: http://github.com/jmervine/nesta-theme-rubyops
+  - Currently under development and **NOT WORKING**.
+
 
 
 ## Usage
