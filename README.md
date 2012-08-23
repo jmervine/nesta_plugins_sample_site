@@ -1,5 +1,7 @@
 # Nesta Sample
 
+I use this for plugin development.
+
 ## Plugins:
 
 > These may not abe all that's are being installed, but they are all the have been confirmed as working.
