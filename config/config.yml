@@ -5,6 +5,8 @@ title: "Nesta Sample"
 subtitle: "Lessons learned, code written."
 
 # Username / Password for nesta-plugin-admin
+#admin_from_theme: true
+#admin_from_local: true
 username: admin
 password: admin
 
