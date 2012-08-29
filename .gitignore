@@ -4,4 +4,3 @@ vendor/bundle
 Gemfile.lock
 .sass-cache/
 diskcached/
-content-demo/
