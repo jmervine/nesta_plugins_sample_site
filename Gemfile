@@ -5,7 +5,9 @@ gem 'nesta', '0.9.13'
 # mine
 gem 'nesta-plugin-admin'
 gem 'nesta-plugin-sharethis'
-gem 'nesta-plugin-diskcached', :path => "/home/jmervine/Development/nesta-development/nesta-plugin-diskcached"
+gem 'nesta-plugin-diskcached'
+#gem 'nesta-plugin-scalability', :git => "https://github.com/jmervine/nesta-plugin-scalability"
+#gem 'nesta-plugin-scalability', :path => "/home/jmervine/Development/nesta-development/nesta-plugin-scalability"
 gem 'nesta-plugin-google-ads'
 
 # others
